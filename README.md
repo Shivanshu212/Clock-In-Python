@@ -1,2 +1,3 @@
 # Clock-In-Python
-Clock using python library called ktinker
+Clock using python library called tkinter
+
